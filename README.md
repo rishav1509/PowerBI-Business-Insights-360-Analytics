@@ -1,6 +1,6 @@
 # Business Insights Dashboard
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/68b8cc72-d19a-44a3-adaa-fcf59d2b72c8/59ffe0400068ed1a6aa7?experience=power-bi
+### Dashboard Link : https://app.powerbi.com/groups/me/reports/ec9784da-cd89-47f2-bf20-fe91fa554665/ReportSection899597ac45b319d73fef?experience=power-bi
 
 ## Problem Statement :
 
